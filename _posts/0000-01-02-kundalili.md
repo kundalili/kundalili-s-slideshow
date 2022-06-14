@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I like singin when I'm coding. 🎵
 Use the left arrow to go back!
